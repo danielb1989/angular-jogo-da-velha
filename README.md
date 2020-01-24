@@ -1,5 +1,7 @@
 # JogoDaVelha
 
+Projeto de jogo da velha realizado com aula em curso na Udemy.com
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
 ## Development server
